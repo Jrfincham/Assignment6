@@ -1,0 +1,19 @@
+body {
+  color: blue
+}
+#calculateBtn {
+  color: darkgreen;
+  background-color: grey;
+}
+#calculateBtnSub {
+  color: darkblue;
+  background-color: grey;
+}
+#calculateBtnMul {
+  color: darkred;
+  background-color: grey;
+}
+#calculateBtnDiv {
+  color: yellow;
+  background-color: grey;
+}
